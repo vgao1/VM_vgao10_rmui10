@@ -1,1 +1,2 @@
-# VM_vgao10_rmui10
+# Python Pandas TEDxSoftDev by VM (Victoria Gao & Renee Mui)
+
